@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'secureshareassignment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5F464130C644F07837E7BF9B37E8812 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A936EA1F48A5425D9B68C62200C4A684 }}
